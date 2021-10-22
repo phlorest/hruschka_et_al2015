@@ -21,4 +21,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](tree.svg)
+![summary](./summary_tree.svg)

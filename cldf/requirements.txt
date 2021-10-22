@@ -30,6 +30,7 @@ pycldf==1.22.0
 pycountry==20.7.3
 -e git+https://github.com/d-place/pydplace@9a94a80bccd7e9d87f0aa50d40252e95fbba2a2c#egg=pydplace
 pyglottolog==3.6.0
+PyQt5==5.15.5
 pytest==6.2.4
 requests==2.22.0
 rfc3986==1.5.0

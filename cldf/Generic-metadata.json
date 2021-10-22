@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "ad58cf8",
+            "dc:created": "41f7843",
             "dc:title": "Repository"
         },
         {
@@ -109,6 +109,10 @@
                     {
                         "datatype": "string",
                         "name": "language"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
                     }
                 ],
                 "primaryKey": [

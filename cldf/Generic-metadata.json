@@ -14,13 +14,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "41f7843",
+            "dc:created": "1dc95b8",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-50-g7e36072d31",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],

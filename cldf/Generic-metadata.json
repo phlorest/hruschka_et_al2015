@@ -7,14 +7,26 @@
     ],
     "dc:bibliographicCitation": "Hruschka, D. J., Branford, S., Smith, E. D., Wilkins, J., Meade, A., Pagel, M., & Bhattacharya, T. (2015). Detecting regular sound changes in linguistics as events of concerted evolution. Current Biology, 25(1), 1-9.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:identifier": "http://dx.doi.org/10.1016/j.cub.2014.10.064",
+    "dc:identifier": "https://doi.org/10.1016/j.cub.2014.10.064",
+    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-hruschka_et_al2015",
+    "dc:subject": {
+        "family": "Turkic [turk1311]",
+        "analysis": "bayesian",
+        "scaling": "years"
+    },
+    "dc:title": "Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'",
+    "dcat:accessURL": "https://github.com/phlorest/hruschka_et_al2015",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-hruschka_et_al2015",
+            "rdf:about": "https://github.com/lexibank/hruschkaturkic",
             "rdf:type": "prov:Entity",
-            "dc:created": "1dc95b8",
+            "dc:description": "Dataset underlying the analysis"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "eac4d00",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +39,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",

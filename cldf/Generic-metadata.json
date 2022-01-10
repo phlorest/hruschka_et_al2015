@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Hruschka et al.2015'Turkic (Hruschka et al. 2015)'",
     "dcat:accessURL": "https://github.com/phlorest/hruschka_et_al2015",
     "prov:wasDerivedFrom": [
         {
@@ -26,7 +26,7 @@
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "eac4d00",
+            "dc:created": "b223598",
             "dc:title": "Repository"
         },
         {

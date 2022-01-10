@@ -7,6 +7,9 @@ import phlorest
 # We simply discard the second number.
 PIPE_PLUS_NUMBER = re.compile(r'\|[0-9]*\.?[0-9]*')
 
+def relabel(x):
+    return PIPE_PLUS_NUMBER.sub('', x)
+
 
 class Dataset(phlorest.Dataset):
     dir = pathlib.Path(__file__).parent
@@ -14,21 +17,20 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        posterior = PIPE_PLUS_NUMBER.sub('', self.raw_dir.read('bp-noF-AS-reg-Relaxed-cS_t8.trees'))
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.run_treeannotator('-burnin 10 -heights median', posterior),
-                nex,
-                'summary',
-                detranslate=True,
-            )
-        posterior = self.sample(
-            posterior,
-            detranslate=True,
-            n=100,
-            as_nexus=True)
+        nex = self.raw_dir.read_nexus(
+            'bp-noF-AS-reg-Relaxed-cS_t8.trees',
+            preprocessor=relabel
+        )
+        nex.trees.detranslate()
 
-        with self.nexus_posterior() as nex:
-            for i, tree in enumerate(posterior.trees.trees, start=1):
-                self.add_tree(args, tree, nex, 'posterior-{}'.format(i))
+        nex_mcc = self.run_treeannotator('-burnin 0 -heights median', nex.write())
+        nex_mcc.trees.detranslate()
+        args.writer.add_summary(
+            nex_mcc.trees.trees[0],
+            self.metadata,
+            args.log)
+        
+        args.writer.add_posterior(
+            nex.trees.trees,
+            self.metadata, 
+            args.log)

@@ -8,7 +8,7 @@
     "year": 2015,
     "scaling": "years",
     "analysis": "bayesian",
-    "family": "turk1311",
+    "family": "Turkic",
     "cldf": "https://github.com/lexibank/hruschkaturkic",
     "data": "https://github.com/lexibank/hruschkaturkic",
     "missing": {

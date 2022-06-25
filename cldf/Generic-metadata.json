@@ -11,7 +11,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Turkic [turk1311]",
+        "family": "Turkic",
         "analysis": "bayesian",
         "scaling": "years"
     },
@@ -26,13 +26,13 @@
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "b223598",
+            "dc:created": "9f18c5c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],

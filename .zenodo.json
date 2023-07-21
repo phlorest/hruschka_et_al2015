@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,35 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Daniel J. Hruschka"
+        },
+        {
+            "name": "Simon Branford"
+        },
+        {
+            "name": "Eric D. Smith"
+        },
+        {
+            "name": "Jon Wilkins"
+        },
+        {
+            "name": "Andrew Meade"
+        },
+        {
+            "name": "Mark Pagel"
+        },
+        {
+            "name": "Tanmoy Bhattacharya"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }

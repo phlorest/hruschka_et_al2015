@@ -19,14 +19,14 @@
     "dcat:accessURL": "https://github.com/phlorest/hruschka_et_al2015",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/hruschkaturkic",
+            "rdf:about": "https://doi.org/10.5281/zenodo.8171452",
             "rdf:type": "prov:Entity",
-            "dc:description": "Dataset underlying the analysis"
+            "dc:description": "The dataset from which the data underlying the analysis was derived"
         },
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "6180236",
+            "dc:created": "f568142",
             "dc:title": "Repository"
         },
         {

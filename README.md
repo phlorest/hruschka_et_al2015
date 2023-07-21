@@ -1,4 +1,6 @@
-# Dataset hruschka_et_al2015
+# Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'
+
+[![CLDF validation](https://github.com/phlorest/hruschka_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/hruschka_et_al2015/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1016/j.cub.2014.10.064
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1016/j.cub.2014.10.064
 
 
 ## CLDF Datasets

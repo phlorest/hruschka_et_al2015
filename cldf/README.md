@@ -1,6 +1,6 @@
 <a name="ds-genericmetadatajson"> </a>
 
-# Generic Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'
+# Generic Phlorest phylogeny derived from Hruschka et al. 2015 'Detecting regular sound changes in linguistics as events of concerted evolution'
 
 **CLDF Metadata**: [Generic-metadata.json](./Generic-metadata.json)
 
@@ -14,7 +14,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/2.0/
 [dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Turkic</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>years</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/hruschka_et_al2015
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://doi.org/10.5281/zenodo.8171452">https://doi.org/10.5281/zenodo.8171452 </a></li><li><a href="https://github.com/phlorest/hruschka_et_al2015/tree/f568142">phlorest/hruschka_et_al2015 f568142</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://doi.org/10.5281/zenodo.8171452">https://doi.org/10.5281/zenodo.8171452 </a></li><li><a href="https://github.com/phlorest/hruschka_et_al2015/tree/bfcf720">phlorest/hruschka_et_al2015 bfcf720</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | hruschka_et_al2015
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

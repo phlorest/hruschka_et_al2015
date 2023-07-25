@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Hruschka et al. 2015 'Detecting regular sound changes in linguistics as events of concerted evolution'",
     "dcat:accessURL": "https://github.com/phlorest/hruschka_et_al2015",
     "prov:wasDerivedFrom": [
         {
@@ -26,7 +26,7 @@
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "f568142",
+            "dc:created": "bfcf720",
             "dc:title": "Repository"
         },
         {

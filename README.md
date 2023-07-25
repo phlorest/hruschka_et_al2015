@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Hruschka et al. 2015 'Turkic (Hruschka et al. 2015)'
+# Phlorest phylogeny derived from Hruschka et al. 2015 'Detecting regular sound changes in linguistics as events of concerted evolution'
 
 [![CLDF validation](https://github.com/phlorest/hruschka_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/hruschka_et_al2015/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Turkic language family computed from a bayesian analysis scaled by years.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1016/j.cub.2014.10.064
+Source available online at https://doi.org/10.1016/j.cub.2014.10.064
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/hruschka_et_al2015/main/summary_tree.svg)

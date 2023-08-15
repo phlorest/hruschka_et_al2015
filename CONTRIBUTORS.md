@@ -9,4 +9,6 @@ Jon Wilkins                    |  | author | Author
 Andrew Meade                   |  | author | Author
 Mark Pagel                     |  | author | Author
 Tanmoy Bhattacharya            |  | author | Author
-Simon J. Greenhill             | @SimonGreenhill | maintainer | Phlorest
+Simon J. Greenhill             | @SimonGreenhill | maintainer | Editor
+Robert Forkel          | @xrotwang | maintainer | Editor
+

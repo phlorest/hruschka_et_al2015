@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Hruschka et al. 2015 'Detecting regular sound changes in linguistics as events of concerted evolution'
 
 [![CLDF validation](https://github.com/phlorest/hruschka_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/hruschka_et_al2015/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250105.svg)](https://doi.org/10.5281/zenodo.8250105)
 
 ## How to cite
 

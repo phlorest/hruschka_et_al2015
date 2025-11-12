@@ -25,7 +25,7 @@ class Dataset(phlorest.Dataset):
             preprocessor=relabel
         )
 
-        nex_mcc = self.run_treeannotator('-burnin 0 -heights median', str(nex))
+        nex_mcc = self.run_treeannotator('-burnin 0 -height median', str(nex))
         #tree = nex_mcc.TREES.TREE
         #tree.newick = nex_mcc.TREES.translate(tree.newick)
         args.writer.add_summary(nex_mcc.TREES.translate(nex_mcc.TREES.TREE), self.metadata, args.log)

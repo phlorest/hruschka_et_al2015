@@ -10,5 +10,5 @@ Andrew Meade                   |  | author | Author
 Mark Pagel                     |  | author | Author
 Tanmoy Bhattacharya            |  | author | Author
 Simon J. Greenhill             | @SimonGreenhill | maintainer | Editor
-Robert Forkel          | @xrotwang | maintainer | Editor
+Robert Forkel                  | @xrotwang | maintainer | Editor
 

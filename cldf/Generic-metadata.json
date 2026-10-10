@@ -26,20 +26,20 @@
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-1-g402e072",
+            "dc:created": "v1.2-6-g3b58b64",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.14.8"
         },
         {
             "dc:title": "python-packages",

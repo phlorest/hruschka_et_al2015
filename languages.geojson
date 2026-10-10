@@ -1,0 +1,451 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8705,
+          50.1347
+        ]
+      },
+      "properties": {
+        "Name": "ALT",
+        "Glottocode": "sout2694",
+        "language": "Oyrat",
+        "Glottolog_Name": "Southern Altai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4302,
+          36.5137
+        ]
+      },
+      "properties": {
+        "Name": "AZB",
+        "Glottocode": "sout2697",
+        "language": "Azerbaidzhan",
+        "Glottolog_Name": "South Azerbaijani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.55937,
+          53.59671
+        ]
+      },
+      "properties": {
+        "Name": "BAS",
+        "Glottocode": "bash1264",
+        "xd_ids": [
+          "xd549"
+        ],
+        "language": "Bashkir",
+        "Glottolog_Name": "Bashkir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.44567,
+          41.170545
+        ]
+      },
+      "properties": {
+        "Name": "BLKX",
+        "Glottocode": "balk1254",
+        "language": "Balkar",
+        "Glottolog_Name": "Rumelian Turkish"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.16298,
+          55.48701
+        ]
+      },
+      "properties": {
+        "Name": "CHV",
+        "Glottocode": "chuv1255",
+        "xd_ids": [
+          "xd551"
+        ],
+        "language": "Chuvash",
+        "Glottolog_Name": "Chuvash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.29358,
+          71.10828
+        ]
+      },
+      "properties": {
+        "Name": "DOLG",
+        "Glottocode": "dolg1241",
+        "language": "Dolgan",
+        "Glottolog_Name": "Dolgan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.02769,
+          44.59876
+        ]
+      },
+      "properties": {
+        "Name": "GAGX",
+        "Glottocode": "gaga1249",
+        "xd_ids": [
+          "xd554"
+        ],
+        "language": "Gagauz",
+        "Glottolog_Name": "Gagauz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.67409,
+          52.66002
+        ]
+      },
+      "properties": {
+        "Name": "HAK",
+        "Glottocode": "khak1248",
+        "language": "Khakassian",
+        "Glottolog_Name": "Khakas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.98031,
+          61.69744
+        ]
+      },
+      "properties": {
+        "Name": "JAK",
+        "Glottocode": "yaku1245",
+        "xd_ids": [
+          "xd628"
+        ],
+        "language": "Yakut",
+        "Glottolog_Name": "Sakha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.454,
+          51.17
+        ]
+      },
+      "properties": {
+        "Name": "KAZ",
+        "Glottocode": "kaza1248",
+        "xd_ids": [
+          "xd609"
+        ],
+        "language": "Kazakh",
+        "Glottolog_Name": "Kazakh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.32223,
+          34.42237
+        ]
+      },
+      "properties": {
+        "Name": "KHAL",
+        "Glottocode": "turk1303",
+        "language": "Halaj",
+        "Glottolog_Name": "Khalaj Turkic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.32233,
+          39.98005
+        ]
+      },
+      "properties": {
+        "Name": "KLPX",
+        "Glottocode": "kara1467",
+        "language": "Karakalpak",
+        "Glottolog_Name": "Kara-Kalpak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0,
+          42.0
+        ]
+      },
+      "properties": {
+        "Name": "KRG",
+        "Glottocode": "kirg1245",
+        "language": "Kirghiz",
+        "Glottolog_Name": "Kirghiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1054,
+          54.5534
+        ]
+      },
+      "properties": {
+        "Name": "KRMX",
+        "Glottocode": "kara1464",
+        "xd_ids": [
+          "xd560"
+        ],
+        "language": "Karaim",
+        "Glottolog_Name": "Karaim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1656,
+          44.89776
+        ]
+      },
+      "properties": {
+        "Name": "NOGX",
+        "Glottocode": "noga1249",
+        "language": "Nogai",
+        "Glottolog_Name": "Nogai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "Name": "QUM",
+        "Glottocode": "kumy1244",
+        "xd_ids": [
+          "xd579"
+        ],
+        "language": "Kumyk",
+        "Glottolog_Name": "Kumyk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.819,
+          35.5457
+        ]
+      },
+      "properties": {
+        "Name": "SAL",
+        "Glottocode": "sala1264",
+        "language": "Salar",
+        "Glottolog_Name": "Salar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.84468,
+          53.70953
+        ]
+      },
+      "properties": {
+        "Name": "SHR",
+        "Glottocode": "shor1247",
+        "language": "Shor",
+        "Glottolog_Name": "Mrassu Shor-Tutal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.3112,
+          39.0548
+        ]
+      },
+      "properties": {
+        "Name": "SJG",
+        "Glottocode": "west2402",
+        "language": "Sary-Yughur",
+        "Glottolog_Name": "West Yugur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.11577,
+          55.79592
+        ]
+      },
+      "properties": {
+        "Name": "TAT",
+        "Glottocode": "tata1255",
+        "language": "Tatar",
+        "Glottolog_Name": "Tatar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3792,
+          53.7145
+        ]
+      },
+      "properties": {
+        "Name": "TOF",
+        "Glottocode": "kara1462",
+        "language": "Tofalar",
+        "Glottolog_Name": "Taiga Sayan Turkic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8667,
+          39.8667
+        ]
+      },
+      "properties": {
+        "Name": "TRK",
+        "Glottocode": "nucl1301",
+        "xd_ids": [
+          "xd581"
+        ],
+        "language": "Turkish",
+        "Glottolog_Name": "Turkish"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.17574,
+          37.08719
+        ]
+      },
+      "properties": {
+        "Name": "TRM",
+        "Glottocode": "turk1304",
+        "xd_ids": [
+          "xd613"
+        ],
+        "language": "Turkmen",
+        "Glottolog_Name": "Turkmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.36667,
+          51.7
+        ]
+      },
+      "properties": {
+        "Name": "TUV",
+        "Glottocode": "tuvi1240",
+        "language": "Tuva",
+        "Glottolog_Name": "Tuvinian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.38,
+          43.88
+        ]
+      },
+      "properties": {
+        "Name": "UIG",
+        "Glottocode": "uigh1240",
+        "language": "Uighur",
+        "Glottolog_Name": "Uighur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.211,
+          40.886
+        ]
+      },
+      "properties": {
+        "Name": "UZB",
+        "Glottocode": "nort2690",
+        "xd_ids": [
+          "xd616"
+        ],
+        "language": "Uzbek",
+        "Glottolog_Name": "Northern Uzbek"
+      }
+    }
+  ]
+}

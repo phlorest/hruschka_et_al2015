@@ -26,7 +26,7 @@
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-6-g3b58b64",
+            "dc:created": "v1.2-9-g2c70c11",
             "dc:title": "Repository"
         },
         {
